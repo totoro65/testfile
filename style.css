@@ -1,0 +1,190 @@
+body {
+  font-family:'Kaisei Opti', serif;
+  background-color:#773322;
+	background-image:url('pexels-ioana-motoc-4376212.jpg');
+	color: white;
+       font-size: 18px;
+  
+  
+  
+}
+
+header {
+ color: white;
+background-color:#773322;
+ background-image:url('');
+  display:auto-center;
+   padding: auto;
+   
+   font-size:auto;
+}
+
+header .row,
+footer .row {
+  color:white;
+  background-color:grey;
+background-image:url(');
+	
+ 
+
+  
+ display: auto-center;
+  align-items: auto-center;
+  color:white;
+  background-color:silver;
+  
+}
+
+h1 {
+  color:white;
+  background-color:#773322 ;
+  height: flex-wrap;
+  font-weight: 11px;
+  margin: 11px;
+  display:top left;
+  
+  
+
+nav {
+ background-color:#773322;
+ color: white;
+  display:flex-block;
+  justify-content: flex-end;
+	display: center;
+
+  
+
+  
+  
+
+a {
+color: black;
+  padding: 27px ;
+  margin:  27px;
+}
+  
+  a {
+	color: black; text-decoration: none;
+}
+	a:hover {
+		color:yellow;
+	}
+
+.jumbotron {
+  display:center;
+
+  align-items: flex;
+  border-image-outset: 11px ;
+display :center-block;
+
+  background-size:cover;
+  color:black;
+  background-color:white;
+  height: 11px;
+}
+
+.jumbotron h2 {
+background-image:url('');
+  font-size: 24px;
+  font-weight: 14px;
+  margin: auto;
+  color:white ;
+ 
+
+ 
+ 
+ 
+}
+
+.jumbotron h3 {
+  Font-size: 16px;
+  margin: auto;
+  color:white;
+  background-color:#773322;
+  display:center;
+ 
+}
+
+section .row img {
+  color:white;
+  display: center;
+  
+
+  margin: 1px;
+  width: 1px;
+  
+}
+
+.col-md-6 {
+  color: black;
+  background-color:#5aace8 ;
+  margin: 0 0 auto;
+}
+
+.btn.btn-primary {
+  border-radius: 30;
+  border: 30x;
+  color:white;
+  background-color: #5aace8;
+}
+
+.btn.btn-primary:hover {
+  color:#5aace8;
+  background-color: silver;
+	display: center;
+}
+
+.btn-secondary {
+  background-color:red ;
+  color:black;
+  margin: 0 0 0 7px
+}
+.button {
+  display: center;
+  color:black;
+  }
+  
+.portrait {
+  color:none;
+  
+  width:  0 auto;
+  height: 0 auto;
+}
+
+figure img {
+  color:red;
+  width: auto;
+  height: auto;
+  background-color:black;
+
+}
+
+figure {
+  margin-bottom:none;
+  color:red;
+	display:center;
+}
+
+footer {
+  font-size: 7px;
+  padding: 7px 0;
+  color:black;
+  background-color:white;
+
+
+
+
+
+
+footer .col-sm-8 {
+  background-color:white;
+  color:#5aace8;
+  display: flex-center;
+  justify-content: flex-end;
+}
+
+footer ul {
+  color:black;
+  background-color:#5aace8;
+  list-style: flex;
+}
